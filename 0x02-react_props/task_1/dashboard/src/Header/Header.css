@@ -1,0 +1,10 @@
+div.App-header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    border-bottom: thick solid rgb(221, 53, 74);
+}
+
+.App-header h1 {
+    color: rgb(221, 53, 74);
+}

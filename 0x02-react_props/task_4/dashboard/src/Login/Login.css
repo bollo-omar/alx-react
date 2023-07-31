@@ -1,0 +1,9 @@
+div.App-body {
+    padding: 40px 70px;
+
+}
+
+div.App-body {
+    font-weight: bold;
+    border-bottom: thick solid rgb(221, 53, 74);
+}
