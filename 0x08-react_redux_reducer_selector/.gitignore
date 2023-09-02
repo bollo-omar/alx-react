@@ -1,0 +1,7 @@
+# dist/main.js
+dist/main.js
+
+# package-lock.json
+package-lock.json
+#node_modules
+node_modules
